@@ -38,10 +38,10 @@ Yukarıdaki örneği kullanarak **kendi ölçümlerinizle** bir tablo oluşturun
 a) Denkleminiz ***3,94E-03+1,6x+-1,28x^2***. Sizce a, b, ve c'nin fiziksel anlamları ne olabilir? Sizce niçin a'nın değeri negatif?***Sürtünmeden dolayı ısıya dönüşen kinetek enerjiyi ifade ediyor olabilir.***
 
 
-b) Hava sürtünmesini ihmal edersek, bu harakette ivme sabit midir?***Bence değildir çünkü zaman aynı oranla artarken konumun artışındaki düzen bozuluyor.***
+b) Hava sürtünmesini ihmal edersek, bu harakette ivme sabit midir?***Sabittir***
 
 
-c) Video'daki cismin atılış hızı farklı olsaydı (diğer herşey aynı, kütle, yüzey, vb. Hava sürtünmesini ihmal edin), sizce formülde hangi terimler değişecekti? (a, b veya c)***a,b ve c*** ***-Grafikte atılış hızını etkileyen faktörü değiştirdiğimde üçü de değişiyor-***
+c) Video'daki cismin atılış hızı farklı olsaydı (diğer herşey aynı, kütle, yüzey, vb. Hava sürtünmesini ihmal edin), sizce formülde hangi terimler değişecekti? (a, b veya c)***a,b ve c*** ***-Grafikte atılış hızını etkilediği faktörü değiştirdiğimde üçü de değişiyor-***
 
 
 # Bölüm 2 (İvmeli Hareketin Ortalama Hız-Zaman Grafiği)
@@ -51,11 +51,11 @@ Ben kendi verilerim için bir google sheet hazırladım. [Buraya](https://docs.g
 *   Customize ------> Trendline -------> Linear, Label=Use Equation
 kullandım. Konum-zaman grafiği 2.dereceden bir denklem iken, hız-zaman grafiği 1.dereceden (linear-doğrusal) denklem. 
 
-1) Kendi aldığınız verileri kullanarak **ortalama hız-zaman** grafiğini Google çiziniz. [Buraya](link ver) link veriniz.
+1) Kendi aldığınız verileri kullanarak **ortalama hız-zaman** grafiğini Google çiziniz. [Buraya](https://docs.google.com/spreadsheets/d/1jERFlKhdtsfUsmb1mDKwEuAgXUBds6OGdbTOXuSuqGI/edit?usp=sharing) link veriniz.
 
 2) Aynı Google Sheet'i kullanarak ivme verilerini Google Sheet'inize girin. (Bu sefer 7 tane ivme veriniz olacak.) İvme-zaman grafiğini çiziniz.
 
-3) İvme'yi ne buldunuz? Bu ivme değerini kullanarak 1kg'lık cisim ile yüzey arasındaki kinetik sürtünme katsayısını bulunuz. 
+3) İvme'yi ne buldunuz? Bu ivme değerini kullanarak 1kg'lık cisim ile yüzey arasındaki kinetik sürtünme katsayısını bulunuz. ***İvme=22,1*x+-5,98*** ***Kinetik sürtünme katsayısı=5,98***
 
 # Bölüm 3 (Hala Beni Öldürmeyi Düşünmüyorsan)
 1) Bu deneyde ölçüm hatalarım var. Zamandaki ölçüm hatam sizce kaç ms (mili saniye) nedir? Konumdaki ölçüm hatam sizce kaç cm'dir? 
