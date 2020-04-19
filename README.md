@@ -35,7 +35,7 @@ Bulduğum ikinci dereceden denklem (x= konum, t=zaman, *x= at^2+b*t + c*) şu ş
 
 Yukarıdaki örneği kullanarak **kendi ölçümlerinizle** bir tablo oluşturun (hiç değilse birkaç frame benim ölçümlerinden farklı olsun.) Kullandığınız Google Sheet için [buraya](https://docs.google.com/spreadsheets/d/1bPw96aK16mogYVY6g9I0m4oPuu61jCax_3wots9RnMI/edit?usp=sharing) link verin (Google Sheet herkese açık erişimli olsun.) 
 
-a) Denkleminiz ***3,94E-03+1,6x+-1,28x^2***. Sizce a, b, ve c'nin fiziksel anlamları ne olabilir? Sizce niçin a'nın değeri negatif?***Sürtünmeden dolayı ısıya dönüşen kinetek enerjiyi ifade ediyor olabilir.***
+a) Denkleminiz ***3,94E-03+1,6x+-1,28x^2***. Sizce a, b, ve c'nin fiziksel anlamları ne olabilir? Sizce niçin a'nın değeri negatif?***Sürtünmeden dolayı ısıya dönüşen kinetik enerjiyi ifade ediyor olabilir.***
 
 
 b) Hava sürtünmesini ihmal edersek, bu harakette ivme sabit midir?***Bence değildir çünkü zaman sabit artarken konumun artışı sabit değil.***
@@ -55,7 +55,7 @@ kullandım. Konum-zaman grafiği 2.dereceden bir denklem iken, hız-zaman grafi�
 
 2) Aynı Google Sheet'i kullanarak ivme verilerini Google Sheet'inize girin. (Bu sefer 7 tane ivme veriniz olacak.) İvme-zaman grafiğini çiziniz.
 
-3) İvme'yi ne buldunuz? Bu ivme değerini kullanarak 1kg'lık cisim ile yüzey arasındaki kinetik sürtünme katsayısını bulunuz. ****İvme=22,1*x+-5,98  Kinetik sürtünme katsayısı=5,98***
+3) İvme'yi ne buldunuz? Bu ivme değerini kullanarak 1kg'lık cisim ile yüzey arasındaki kinetik sürtünme katsayısını bulunuz. ****İvme=22,1*x+-5,98***
 
 # Bölüm 3 (Hala Beni Öldürmeyi Düşünmüyorsan)
 1) Bu deneyde ölçüm hatalarım var. Zamandaki ölçüm hatam sizce kaç ms (mili saniye) nedir? Konumdaki ölçüm hatam sizce kaç cm'dir?
