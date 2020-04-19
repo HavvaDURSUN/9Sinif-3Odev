@@ -38,10 +38,10 @@ Yukarıdaki örneği kullanarak **kendi ölçümlerinizle** bir tablo oluşturun
 a) Denkleminiz ***3,94E-03+1,6x+-1,28x^2***. Sizce a, b, ve c'nin fiziksel anlamları ne olabilir? Sizce niçin a'nın değeri negatif?***Sürtünmeden dolayı ısıya dönüşen kinetek enerjiyi ifade ediyor olabilir.***
 
 
-b) Hava sürtünmesini ihmal edersek, bu harakette ivme sabit midir?***Sabittir***
+b) Hava sürtünmesini ihmal edersek, bu harakette ivme sabit midir?***Bence değildir çünkü zaman sabit artarken konumun artışı sabit değil.***
 
 
-c) Video'daki cismin atılış hızı farklı olsaydı (diğer herşey aynı, kütle, yüzey, vb. Hava sürtünmesini ihmal edin), sizce formülde hangi terimler değişecekti? (a, b veya c)***a,b ve c*** ***-Grafikte atılış hızını etkilediği faktörü değiştirdiğimde üçü de değişiyor-***
+c) Video'daki cismin atılış hızı farklı olsaydı (diğer herşey aynı, kütle, yüzey, vb. Hava sürtünmesini ihmal edin), sizce formülde hangi terimler değişecekti? (a, b veya c)***a,b ve c*** ***-Grafikte atılış hızının etkilediği faktörü değiştirdiğimde üçü de değişiyor-***
 
 
 # Bölüm 2 (İvmeli Hareketin Ortalama Hız-Zaman Grafiği)
@@ -58,11 +58,14 @@ kullandım. Konum-zaman grafiği 2.dereceden bir denklem iken, hız-zaman grafi�
 3) İvme'yi ne buldunuz? Bu ivme değerini kullanarak 1kg'lık cisim ile yüzey arasındaki kinetik sürtünme katsayısını bulunuz. ****İvme=22,1*x+-5,98  Kinetik sürtünme katsayısı=5,98***
 
 # Bölüm 3 (Hala Beni Öldürmeyi Düşünmüyorsan)
-1) Bu deneyde ölçüm hatalarım var. Zamandaki ölçüm hatam sizce kaç ms (mili saniye) nedir? Konumdaki ölçüm hatam sizce kaç cm'dir? 
+1) Bu deneyde ölçüm hatalarım var. Zamandaki ölçüm hatam sizce kaç ms (mili saniye) nedir? Konumdaki ölçüm hatam sizce kaç cm'dir?
+***Siz hata yapmazsınız hocam.***
+
 
 2) Acaba hiç grafik çizmeden sürtünme katsayısını bulabilir miydim?  (Cevap: Evet). 
 Yardım:
-* Düzgün ivmelenen bir cisim için alınan yol formülü x = (ilk hız+ son hız)/2*t, burdan cismin ilk hızını bulunuz. 
+* Düzgün ivmelenen bir cisim için alınan yol formülü x = (ilk hız+ son hız)/2*t, burdan cismin ilk hızını bulunuz.***İlk hız ile son hızı toplayıp zamanın iki katına bölerek nasıl ilk hızını bulduğumuzu anlamadım.*** 
 * Daha sonra iş-kinetik enerji teorimini kullanarak sürtünme kuvvetini bulun. Sürtünme kuvvetinden, kinetik sürtünme katsayısını bulunuz.
 
-3) Bu video'dan statik sürtünme katsayısını bulabilir miydim? 
+
+3) Bu video'dan statik sürtünme katsayısını bulabilir miydim? ***Bilmiyorum.***
